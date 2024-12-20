@@ -1,2 +1,4 @@
 # SO-LAB-10
-Zadanie Dodatkowe - PowerShell
+Authors: KP & AW
+
+
